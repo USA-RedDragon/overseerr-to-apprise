@@ -1,6 +1,6 @@
 module github.com/USA-RedDragon/overseerr-to-apprise
 
-go 1.23.2
+go 1.23.3
 
 require (
 	github.com/gin-contrib/cors v1.7.2
