@@ -3,7 +3,7 @@ module github.com/USA-RedDragon/overseerr-to-apprise
 go 1.23.4
 
 require (
-	github.com/gin-contrib/cors v1.7.2
+	github.com/gin-contrib/cors v1.7.3
 	github.com/gin-contrib/pprof v1.5.2
 	github.com/gin-gonic/gin v1.10.0
 	github.com/prometheus/client_golang v1.20.5
